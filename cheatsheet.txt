@@ -1,0 +1,12 @@
+1. Git init.- sirve para iniciar un repositorio local
+1. Git add . srive para añadir los archivos y poder comitearlos despues
+Git config user.name sirve para configurar el nombre del la persona que modificara los cambios
+Git confid user.emlai sirve para configurar el correo
+Git commit -m sirve para guardar el archivo y poner un mensaje del estado-
+Git remote add origin srive para vincular el repositorio remoto
+git push origin main para subir los archivos al repositorioo remoto
+git pull origin main para descargar las actualizaciones en nuestra computadora
+git clone sirve para clonar un repositorio 
+git branch para crea una rama alterna
+git swicth "rama" sirve para cambiar de ramas
+git merge para fucionar ramas
