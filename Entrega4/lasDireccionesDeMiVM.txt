@@ -1,0 +1,4 @@
+Esta es la MAC de mi VM 
+ direcciónHW 08:00:27:aa:08:d5
+Esta es la IP de mi VM  
+          Direc. inet:10.0.2.15
